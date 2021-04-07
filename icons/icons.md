@@ -1,6 +1,6 @@
 # Retro Web Art
 
-## <TITLE>Icons</TITLE>
+## Icons
 
 ![Icon 01](icon01.gif "Icon 01")
 
