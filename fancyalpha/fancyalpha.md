@@ -1,57 +1,57 @@
 # Retro Web Art
 
-## <TITLE>Fancy Alphabet</TITLE>
+## Fancy Alphabet
 
-![Letter A](A.gif "Letter A")
+![Letter A](a.gif "Letter A")
 
-![Letter B](B.gif "Letter B")
+![Letter B](b.gif "Letter B")
 
-![Letter C](C.gif "Letter C")
+![Letter C](c.gif "Letter C")
 
-![Letter D](D.gif "Letter D")
+![Letter D](d.gif "Letter D")
 
-![Letter E](E.gif "Letter E")
+![Letter E](e.gif "Letter E")
 
-![Letter F](F.gif "Letter F")
+![Letter F](f.gif "Letter F")
 
-![Letter G](G.gif "Letter G")
+![Letter G](g.gif "Letter G")
 
-![Letter H](H.gif "Letter H")
+![Letter H](h.gif "Letter H")
 
-![Letter I](I.gif "Letter I")
+![Letter I](i.gif "Letter I")
 
-![Letter J](J.gif "Letter J")
+![Letter J](j.gif "Letter J")
 
-![Letter K](K.gif "Letter K")
+![Letter K](k.gif "Letter K")
 
-![Letter L](L.gif "Letter L")
+![Letter L](l.gif "Letter L")
 
-![Letter M](M.gif "Letter M")
+![Letter M](m.gif "Letter M")
 
-![Letter N](N.gif "Letter N")
+![Letter N](n.gif "Letter N")
 
-![Letter O](O.gif "Letter O")
+![Letter O](o.gif "Letter O")
 
-![Letter P](P.gif "Letter P")
+![Letter P](p.gif "Letter P")
 
-![Letter Q](Q.gif "Letter Q")
+![Letter Q](q.gif "Letter Q")
 
-![Letter R](R.gif "Letter R")
+![Letter R](r.gif "Letter R")
 
-![Letter S](S.gif "Letter S")
+![Letter S](s.gif "Letter S")
 
-![Letter T](T.gif "Letter T")
+![Letter T](t.gif "Letter T")
 
-![Letter U](U.gif "Letter U")
+![Letter U](u.gif "Letter U")
 
-![Letter V](V.gif "Letter V")
+![Letter V](v.gif "Letter V")
 
-![Letter W](W.gif "Letter W")
+![Letter W](w.gif "Letter W")
 
-![Letter X](X.gif "Letter X")
+![Letter X](x.gif "Letter X")
 
-![Letter Y](Y.gif "Letter Y")
+![Letter Y](y.gif "Letter Y")
 
-![Letter Z](Z.gif "Letter Z")
+![Letter Z](z.gif "Letter Z")
 
 [Home](../readme.md)
